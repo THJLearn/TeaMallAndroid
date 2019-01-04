@@ -1,2 +1,2 @@
 # TeaMallAndroid
-茶摩
+茶摩安卓客户端
